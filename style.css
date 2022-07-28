@@ -1,0 +1,34 @@
+.font1-h5 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 4rem;
+  color: white;
+}
+
+.font2-p1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 1.125rem;
+  color: white;
+}
+.font1-h5 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 4rem;
+  color: white;
+}
+
+.font2-p1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 1.125rem;
+  color: white;
+}
+
+.h-adjust {
+  height: 400px;
+}
+
+.new-marg {
+  margin-bottom: 180px;
+}
