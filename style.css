@@ -32,3 +32,32 @@
 .new-marg {
   margin-bottom: 180px;
 }
+@media only screen and (max-width: 991px) {
+  .font1-h5 {
+    font-size: 3rem;
+  }
+
+  .font2-p1 {
+    font-size: 1rem;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .font1-h5 {
+    font-size: 2rem;
+  }
+
+  .font2-p1 {
+    font-size: 0.8rem;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .font1-h5 {
+    font-size: 1rem;
+  }
+
+  .font2-p1 {
+    font-size: 0.6rem;
+  }
+}
